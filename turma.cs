@@ -7,6 +7,6 @@ public class Turma{
             public List<Estudante> estudantes = new List<Estudante>();
 
             public void AdicionarEstudante(Estudante e){
-                this.estudantes.add(e);
+                this.estudantes.Add(e);
             }
 }

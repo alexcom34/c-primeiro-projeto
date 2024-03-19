@@ -5,7 +5,7 @@ public class Estudante{
         public int idade {get; set;}
         
 
-        public void matricular(){
+        public void Matricular(){
 
         }
 }
